@@ -1,5 +1,5 @@
 {
-    "name":        "kohana/koharness",
+    "name":        "lestor/koharness",
     "description": "Creates test harnesses for kohana modules by bootstrapping a temporary kohana application with dependencies",
     "homepage":    "http://kohanaframework.org",
     "license":     "BSD-3-Clause",
